@@ -97,6 +97,15 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 10 more language builds: 中文 [seedance-1-0-pro-fast-api-cn](https://github.com/v87tcvt6l/seedance-1-0-pro-fast-api-cn) · Deutsch [seedance-1-0-pro-fast-api-de](https://github.com/u6ybw3k/seedance-1-0-pro-fast-api-de) · Español [seedance-1-0-pro-fast-api-es](https://github.com/ghr27oddo/seedance-1-0-pro-fast-api-es) · Français [seedance-1-0-pro-fast-api-fr](https://github.com/gc8pi4v-0h/seedance-1-0-pro-fast-api-fr) · Relay/gateway [seedance-1-0-pro-fast-api-gateway](https://github.com/omz6999i/seedance-1-0-pro-fast-api-gateway) · Bahasa [seedance-1-0-pro-fast-api-id](https://github.com/s9ss959juex770/seedance-1-0-pro-fast-api-id) · 日本語 [seedance-1-0-pro-fast-api-ja](https://github.com/kwmw8z1tvj5/seedance-1-0-pro-fast-api-ja) · 한국어 [seedance-1-0-pro-fast-api-ko](https://github.com/kh22-9a/seedance-1-0-pro-fast-api-ko) · Português [seedance-1-0-pro-fast-api-pt](https://github.com/vbe2e9-9/seedance-1-0-pro-fast-api-pt) · Русский [seedance-1-0-pro-fast-api-ru](https://github.com/leh6uvwe/seedance-1-0-pro-fast-api-ru)
+- **Topic hubs** — every build of this model, all languages: [seedance-1-0-pro-fast](https://github.com/topics/seedance-1-0-pro-fast) · [seedance-1-0-pro-fast-api](https://github.com/topics/seedance-1-0-pro-fast-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
